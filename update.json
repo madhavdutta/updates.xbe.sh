@@ -17,11 +17,11 @@
       },
       "darwin-x86_64": {
         "signature": "placeholder_signature_here",
-        "url": "https://release.xbe.sh/release/v2.0.0/mac/xbesh_2.0.0_x64.dmg"
+        "url": "https://release.xbe.sh/release/v2.0.0/mac/universal/xbe.sh_2.0.0_aarch64.dmg"
       },
       "darwin-aarch64": {
         "signature": "placeholder_signature_here",
-        "url": "https://release.xbe.sh/release/v2.0.0/mac/xbe.sh_2.0.0_aarch64.dmg"
+        "url": "https://release.xbe.sh/release/v2.0.0/mac/silicon/xbe.sh_2.0.0_aarch64.dmg"
       },
       "linux-x86_64": {
         "signature": "placeholder_signature_here",
