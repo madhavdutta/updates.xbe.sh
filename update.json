@@ -5,39 +5,39 @@
     "platforms": {
       "windows-x86_64": {
         "signature": "placeholder_signature_here",
-        "url": "https://update.xbe.sh/release/v2.0.0/windows/xbesh_2.0.0_x64_en-US.msi"
+        "url": "https://release.xbe.sh/release/v2.0.0/windows/xbesh_2.0.0_x64_en-US.msi"
       },
       "windows-i686": {
         "signature": "placeholder_signature_here",
-        "url": "https://update.xbe.sh/release/v2.0.0/windows/xbesh_2.0.0_x86-setup.exe"
+        "url": "https://release.xbe.sh/release/v2.0.0/windows/xbesh_2.0.0_x86-setup.exe"
       },
       "windows-aarch64": {
         "signature": "placeholder_signature_here",
-        "url": "https://update.xbe.sh/release/v2.0.0/windows/xbesh_2.0.0_arm64_en-US.msi"
+        "url": "https://release.xbe.sh/release/v2.0.0/windows/xbesh_2.0.0_arm64_en-US.msi"
       },
       "darwin-x86_64": {
         "signature": "placeholder_signature_here",
-        "url": "https://update.xbe.sh/release/v2.0.0/mac/xbesh_2.0.0_x64.dmg"
+        "url": "https://release.xbe.sh/release/v2.0.0/mac/xbesh_2.0.0_x64.dmg"
       },
       "darwin-aarch64": {
         "signature": "placeholder_signature_here",
-        "url": "https://update.xbe.sh/release/v2.0.0/mac/xbesh_2.0.0_aarch64.dmg"
+        "url": "https://release.xbe.sh/release/v2.0.0/mac/xbe.sh_2.0.0_aarch64.dmg"
       },
       "linux-x86_64": {
         "signature": "placeholder_signature_here",
-        "url": "https://update.xbe.sh/release/v2.0.0/linux/xbesh_2.0.0_amd64.AppImage"
+        "url": "https://release.xbe.sh/release/v2.0.0/linux/xbesh_2.0.0_amd64.AppImage"
       },
       "linux-i686": {
         "signature": "placeholder_signature_here",
-        "url": "https://update.xbe.sh/release/v2.0.0/linux/xbesh_2.0.0_i386.AppImage"
+        "url": "https://release.xbe.sh/release/v2.0.0/linux/xbesh_2.0.0_i386.AppImage"
       },
       "linux-aarch64": {
         "signature": "placeholder_signature_here",
-        "url": "https://update.xbe.sh/release/v2.0.0/linux/xbesh_2.0.0_arm64.AppImage"
+        "url": "https://release.xbe.sh/release/v2.0.0/linux/xbesh_2.0.0_arm64.AppImage"
       },
       "linux-armv7": {
         "signature": "placeholder_signature_here",
-        "url": "https://update.xbe.sh/release/v2.0.0/linux/xbesh_2.0.0_armv7.AppImage"
+        "url": "https://release.xbe.sh/release/v2.0.0/linux/xbesh_2.0.0_armv7.AppImage"
       }
     }
   }
