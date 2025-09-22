@@ -1,7 +1,7 @@
 {
     "version": "2.0.1",
     "notes": "Bug fixes and performance improvements\n\n- Fixed memory leaks in background processes\n- Improved startup time by 40%\n- Enhanced security with updated dependencies\n- Better error handling and user feedback\n- UI/UX improvements across all platforms",
-    "pub_date": "2025-01-15T10:00:00Z",
+    "pub_date": "2025-01-09-22T10:00:00Z",
     "platforms": {
       "windows-x86_64": {
         "signature": "placeholder_signature_here",
