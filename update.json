@@ -5,15 +5,15 @@
     "platforms": {
       "windows-x86_64": {
         "signature": "placeholder_signature_here",
-        "url": "https://release.xbe.sh/release/v2.0.0/windows/xbesh_2.0.0_x64_en-US.msi"
+        "url": "https://release.xbe.sh/release/v2.0.0/windows/msi/xbe.sh_2.0.0_x64_en-US.msi"
       },
       "windows-i686": {
         "signature": "placeholder_signature_here",
-        "url": "https://release.xbe.sh/release/v2.0.0/windows/xbesh_2.0.0_x86-setup.exe"
+        "url": "https://release.xbe.sh/release/v2.0.0/windows/msi/xbe.sh_2.0.0_x64_en-US.msi"
       },
       "windows-aarch64": {
         "signature": "placeholder_signature_here",
-        "url": "https://release.xbe.sh/release/v2.0.0/windows/xbesh_2.0.0_arm64_en-US.msi"
+        "url": "https://release.xbe.sh/release/v2.0.0/windows/msi/xbesh_2.0.0_arm64_en-US.msi"
       },
       "darwin-x86_64": {
         "signature": "placeholder_signature_here",
