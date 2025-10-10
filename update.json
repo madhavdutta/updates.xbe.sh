@@ -4,41 +4,32 @@
     "pub_date": "2025-10-08T10:00:00Z",
     "platforms": {
       "windows-x86_64": {
-        "signature": "placeholder_signature_here",
         "url": "https://release.xbe.sh/release/v2.0.1/windows/msi/xbesh_2.0.1_x64_en-US.msi"
       },
       "windows-i686": {
-        "signature": "placeholder_signature_here",
         "url": "https://release.xbe.sh/release/v2.0.1/windows/msi/xbesh_2.0.1_x64_en-US.msi"
       },
       "windows-aarch64": {
-        "signature": "placeholder_signature_here",
         "url": "https://release.xbe.sh/release/v2.0.1/windows/msi/xbesh_2.0.1_x64_en-US.msi"
       },
 
       "darwin-x86_64": {
-        "signature": "placeholder_signature_here",
         "url": "https://release.xbe.sh/release/v2.0.1/mac/universal/xbesh-2.0.1-universal.dmg"
       },
       "darwin-aarch64": {
-        "signature": "placeholder_signature_here",
         "url": "https://release.xbe.sh/release/v2.0.1/mac/universal/xbesh-2.0.1-universal.dmg"
       },
 
       "linux-x86_64": {
-        "signature": "placeholder_signature_here",
         "url": "https://release.xbe.sh/release/v2.0.0/linux/xbesh_2.0.0_amd64.AppImage"
       },
       "linux-i686": {
-        "signature": "placeholder_signature_here",
         "url": "https://release.xbe.sh/release/v2.0.0/linux/xbesh_2.0.0_i386.AppImage"
       },
       "linux-aarch64": {
-        "signature": "placeholder_signature_here",
         "url": "https://release.xbe.sh/release/v2.0.0/linux/xbesh_2.0.0_arm64.AppImage"
       },
       "linux-armv7": {
-        "signature": "placeholder_signature_here",
         "url": "https://release.xbe.sh/release/v2.0.0/linux/xbesh_2.0.0_armv7.AppImage"
       }
     }
